@@ -5,10 +5,10 @@
  */
 package aplikasipeminjamanbarang;
             
-/*******
+/**  
  *
  * @author ardifirmansyah
- * tes
+ * 
  */
 public class AplikasiPeminjamanBarang {
 
